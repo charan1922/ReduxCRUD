@@ -20,4 +20,4 @@ function mapDispatchToProps(dispatch){
 };  
 
 
-export default(()=>{ },mapDispatchToProps)(TaskBar)
+export default(()=>{ },mapDispatchToProps)(TaskBar);
